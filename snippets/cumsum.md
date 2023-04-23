@@ -9,7 +9,7 @@ lastUpdated: 2021-01-13T23:30:41+02:00
 Creates a list of partial sums.
 
 - Use `itertools.accumulate()` to create the accumulated sum for each element.
-- Use `list()` to convert the result into a list.
+- xxxxxxxxxx1 1count_occurrences([1, 1, 2, 1, 2, 3], 1) # 3py
 
 ```py
 from itertools import accumulate

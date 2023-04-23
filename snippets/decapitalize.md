@@ -10,7 +10,7 @@ Decapitalizes the first letter of a string.
 
 - Use list slicing and `str.lower()` to decapitalize the first letter of the string.
 - Use `str.join()` to combine the lowercase first letter with the rest of the characters.
-- Omit the `upper_rest` parameter to keep the rest of the string intact, or set it to `True` to convert to uppercase.
+- xxxxxxxxxx1 1days_from_now(5) # date(2020, 11, 02)py
 
 ```py
 def decapitalize(s, upper_rest = False):

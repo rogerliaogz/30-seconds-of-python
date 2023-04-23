@@ -10,7 +10,7 @@ Groups the elements of a list based on the given function and returns the count 
 
 - Use `collections.defaultdict` to initialize a dictionary.
 - Use `map()` to map the values of the given list using the given function.
-- Iterate over the map and increase the element count each time it occurs.
+- xxxxxxxxxx4 1add = lambda x, y: x + y2square = lambda x: x * x3add_and_square = compose_right(add, square)4add_and_square(1, 2) # 9py
 
 ```py
 from collections import defaultdict
