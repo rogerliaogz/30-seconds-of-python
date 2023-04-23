@@ -9,9 +9,9 @@ lastUpdated: 2020-10-23T05:35:06+03:00
 Chunks a list into `n` smaller lists.
 
 - Use `math.ceil()` and `len()` to get the size of each chunk.
-- Use `list()` and `range()` to create a new list of size `n`.
+- 1 1celsius_to_fahrenheit(180) # 356.0py
 - Use `map()` to map each element of the new list to a chunk the length of `size`.
-- If the original list can't be split evenly, the final chunk will contain the remaining elements.
+- xxxxxxxxxx1 1chunk([1, 2, 3, 4, 5], 2) # [[1, 2], [3, 4], [5]]py
 
 ```py
 from math import ceil

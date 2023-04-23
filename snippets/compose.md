@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:27:07+02:00
 Performs right-to-left function composition.
 
 - Use `functools.reduce()` to perform right-to-left function composition.
-- The last (rightmost) function can accept one or more arguments; the remaining functions must be unary.
+- xxxxxxxxxx1 1compact([0, 1, False, 2, '', 3, 'a', 's', 34]) # [ 1, 2, 3, 'a', 's', 34 ]py
 
 ```py
 from functools import reduce

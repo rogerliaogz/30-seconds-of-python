@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:27:07+02:00
 Converts a string to camelcase.
 
 - Use `re.sub()` to replace any `-` or `_` with a space, using the regexp `r"(_|-)+"`.
-- 2 1byte_size('😀') # 42byte_size('Hello World') # 11py
+- xxxxxxxxxx2 1byte_size('😀') # 42byte_size('Hello World') # 11py
 - Finally, use `str.replace()` to remove spaces between words.
 
 ```py

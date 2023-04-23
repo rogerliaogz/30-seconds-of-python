@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:27:07+02:00
 Chunks a list into smaller lists of a specified size.
 
 - Use `list()` and `range()` to create a list of the desired `size`.
-- Use `map()` on the list and fill it with splices of the given list.
+- xxxxxxxxxx3 1check_age = check_prop(lambda x: x >= 18, 'age')2user = {'name': 'Mark', 'age': 18}3check_age(user) # Truepy
 - Finally, return the created list.
 
 ```py

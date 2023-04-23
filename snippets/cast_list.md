@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:27:07+02:00
 Casts the provided value as a list if it's not one.
 
 - Use `isinstance()` to check if the given value is enumerable.
-- Return it by using `list()` or encapsulated in a list accordingly.
+- xxxxxxxxxx1 1capitalize_every_word('hello world!') # 'Hello World!'py
 
 ```py
 def cast_list(val):
