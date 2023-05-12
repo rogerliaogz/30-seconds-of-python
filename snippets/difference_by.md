@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:27:53+02:00
 Returns the difference between two lists, after applying the provided function to each list element of both.
 
 - Create a `set`, using `map()` to apply `fn` to each element in `b`.
-- Use a list comprehension in combination with `fn` on `a` to only keep values not contained in the previously created set, `_b`.
+- xxxxxxxxxx1 1digitize(123) # [1, 2, 3]py
 
 ```py
 def difference_by(a, b, fn):

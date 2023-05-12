@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:28:05+02:00
 Initializes a list containing the numbers in the specified range where `start` and `end` are inclusive with their common difference `step`.
 
 - Use `list()` and `range()` to generate a list of the appropriate length, filled with the desired values in the given range.
-- Omit `start` to use the default value of `0`.
+- xxxxxxxxxx1 1initial([1, 2, 3]) # [1, 2]py
 - Omit `step` to use the default value of `1`.
 
 ```py

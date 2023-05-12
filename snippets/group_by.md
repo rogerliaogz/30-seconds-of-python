@@ -10,7 +10,7 @@ Groups the elements of a list based on the given function.
 
 - Use `collections.defaultdict` to initialize a dictionary.
 - Use `fn` in combination with a `for` loop and `dict.append()` to populate the dictionary.
-- Use `dict()` to convert it to a regular dictionary.
+- xxxxxxxxxx11 1users = {2  'freddy': {3    'name': {4      'first': 'fred',5      'last': 'smith'6    },7    'postIds': [1, 2, 3]8  }9}10get(users, ['freddy', 'name', 'last']) # 'smith'11get(users, ['freddy', 'postIds', 1]) # 2py
 
 ```py
 from collections import defaultdict

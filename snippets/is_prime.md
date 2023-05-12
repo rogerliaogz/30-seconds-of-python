@@ -10,7 +10,7 @@ Checks if the provided integer is a prime number.
 
 - Return `False` if the number is `0`, `1`, a negative number or a multiple of `2`.
 - Use `all()` and `range()` to check numbers from `3` to the square root of the given number.
-- Return `True` if none divides the given number, `False` otherwise.
+- xxxxxxxxxx1 1is_odd(3) # Truepy
 
 ```py
 from math import sqrt

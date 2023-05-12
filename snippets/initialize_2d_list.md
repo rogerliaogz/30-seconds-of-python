@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:28:05+02:00
 Initializes a 2D list of given width and height and value.
 
 - Use a list comprehension and `range()` to generate `h` rows where each is a list with length `h`, initialized with `val`.
-- Omit the last argument, `val`, to set the default value to `None`.
+- xxxxxxxxxx1 1initial([1, 2, 3]) # [1, 2]py
 
 ```py
 def initialize_2d_list(w, h, val = None):

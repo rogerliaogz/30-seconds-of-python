@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:28:05+02:00
 Creates a flat list of all the keys in a flat dictionary.
 
 - Use `dict.keys()` to return the keys in the given dictionary.
-- Return a `list()` of the previous result.
+- xxxxxxxxxx1 1key_of_min({'a':4, 'b':0, 'c':13}) # bpy
 
 ```py
 def keys_only(flat_dict):

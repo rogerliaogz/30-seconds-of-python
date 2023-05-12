@@ -9,7 +9,7 @@ lastUpdated: 2020-09-15T16:13:06+03:00
 Converts a hexadecimal color code to a tuple of integers corresponding to its RGB components.
 
 - Use a list comprehension in combination with `int()` and list slice notation to get the RGB components from the hexadecimal string.
-- Use `tuple()` to convert the resulting list to a tuple.
+- xxxxxxxxxx1 1head([1, 2, 3]) # 1py
 
 ```py
 def hex_to_rgb(hex):

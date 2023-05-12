@@ -11,7 +11,7 @@ Maps the values of a list to a dictionary using a function, where the key-value 
 
 - Use `map()` to apply `fn` to each value of the list.
 - Use `zip()` to pair original values to the values produced by `fn`.
-- Use `dict()` to return an appropriate dictionary.
+- xxxxxxxxxx3 1longest_item('this', 'is', 'a', 'testcase') # 'testcase'2longest_item([1, 2, 3], [1, 2], [1, 2, 3, 4, 5]) # [1, 2, 3, 4, 5]3longest_item([1, 2, 3], 'foobar') # 'foobar'py
 
 ```py
 def map_dictionary(itr, fn):

@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:27:53+02:00
 Finds the items that are parity outliers in a given list.
 
 - Use `collections.Counter` with a list comprehension to count even and odd values in the list.
-- Use `collections.Counter.most_common()` to get the most common parity.
+- xxxxxxxxxx1 1find_last_index([1, 2, 3, 4], lambda n: n % 2 == 1) # 2py
 - Use a list comprehension to find all elements that do not match the most common parity.
 
 ```py

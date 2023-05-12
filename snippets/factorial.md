@@ -9,7 +9,7 @@ lastUpdated: 2020-09-15T16:13:06+03:00
 Calculates the factorial of a number.
 
 - Use recursion.
-- If `num` is less than or equal to `1`, return `1`.
+- xxxxxxxxxx1 1every_nth([1, 2, 3, 4, 5, 6], 2) # [ 2, 4, 6 ]py
 - Otherwise, return the product of `num` and the factorial of `num - 1`.
 - Throws an exception if `num` is a negative or a floating point number.
 

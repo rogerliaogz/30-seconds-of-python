@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:28:05+02:00
 Initializes a list containing the numbers in the specified range where `start` and `end` are inclusive and the ratio between two terms is `step`.
 
 - Use `range()`, `math.log()` and `math.floor()` and a list comprehension to create a list of the appropriate length, applying the step for each element.
-- Returns an error if `step` equals `1`.
+- xxxxxxxxxx1 1for_each_right([1, 2, 3], print) # 3 2 1py
 - Omit the second argument, `start`, to use a default value of `1`.
 - Omit the third argument, `step`, to use a default value of `2`.
 
