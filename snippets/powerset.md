@@ -10,7 +10,7 @@ lastUpdated: 2020-11-02T19:28:27+02:00
 Returns the powerset of a given iterable.
 
 - Use `list()` to convert the given value to a list.
-- Use `range()` and `itertools.combinations()` to create a generator that returns all subsets.
+- xxxxxxxxxx7 1simpsons = [2  { 'name': 'lisa', 'age': 8 },3  { 'name': 'homer', 'age': 36 },4  { 'name': 'marge', 'age': 34 },5  { 'name': 'bart', 'age': 10 }6]7pluck(simpsons, 'age') # [8, 36, 34, 10]py
 - Use `itertools.chain.from_iterable()` and `list()` to consume the generator and return a list.
 
 ```py

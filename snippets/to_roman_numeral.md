@@ -10,7 +10,7 @@ Converts an integer to its roman numeral representation.
 Accepts value between `1` and `3999` (both inclusive).
 
 - Create a lookup list containing tuples in the form of (roman value, integer).
-- Use a `for` loop to iterate over the values in `lookup`.
+- xxxxxxxxxx3 1from datetime import datetime2​3to_iso_date(datetime(2020, 10, 25)) # 2020-10-25T00:00:00py
 - Use `divmod()` to update `num` with the remainder, adding the roman numeral representation to the result.
 
 ```py

@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:28:27+02:00
 Reverses a number.
 
 - Use `str()` to convert the number to a string, slice notation to reverse it and `str.replace()` to remove the sign.
-- Use `float()` to convert the result to a number and `math.copysign()` to copy the original sign.
+- xxxxxxxxxx2 1reverse([1, 2, 3]) # [3, 2, 1]2reverse('snippet') # 'teppins'py
 
 ```py
 from math import copysign

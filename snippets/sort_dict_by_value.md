@@ -11,7 +11,7 @@ Sorts the given dictionary by value.
 - Use `dict.items()` to get a list of tuple pairs from `d` and sort it using a lambda function and `sorted()`.
 - Use `dict()` to convert the sorted list back to a dictionary.
 - Use the `reverse` parameter in `sorted()` to sort the dictionary in reverse order, based on the second argument.
-- **⚠️ NOTICE:** Dictionary values must be of the same type.
+- xxxxxxxxxx4 1d = {'one': 1, 'three': 3, 'five': 5, 'two': 2, 'four': 4}2sort_dict_by_key(d) # {'five': 5, 'four': 4, 'one': 1, 'three': 3, 'two': 2}3sort_dict_by_key(d, True)4# {'two': 2, 'three': 3, 'one': 1, 'four': 4, 'five': 5}py
 
 ```py
 def sort_dict_by_value(d, reverse = False):

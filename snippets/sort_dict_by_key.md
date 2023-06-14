@@ -10,7 +10,7 @@ Sorts the given dictionary by key.
 
 - Use `dict.items()` to get a list of tuple pairs from `d` and sort it using `sorted()`.
 - Use `dict()` to convert the sorted list back to a dictionary.
-- Use the `reverse` parameter in `sorted()` to sort the dictionary in reverse order, based on the second argument.
+- xxxxxxxxxx1 1slugify('Hello World!') # 'hello-world'py
 
 ```py
 def sort_dict_by_key(d, reverse = False):

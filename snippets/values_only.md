@@ -9,7 +9,7 @@ lastUpdated: 2020-11-02T19:28:35+02:00
 Returns a flat list of all the values in a flat dictionary.
 
 - Use `dict.values()` to return the values in the given dictionary.
-- Return a `list()` of the previous result.
+- xxxxxxxxxx1 1unique_elements([1, 2, 2, 3, 4, 3]) # [1, 2, 3, 4]py
 
 ```py
 def values_only(flat_dict):
